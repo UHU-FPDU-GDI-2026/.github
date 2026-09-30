@@ -5,4 +5,5 @@
   - Martes, 6 de octubre de 2026
 * Horario:
   - de 11:00 a 14:00h
+* [gitHub Pages (apuntes)](https://ull-ocw-github-education.github.io/)
 
