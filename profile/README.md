@@ -5,7 +5,6 @@
   - Martes, 6 de octubre de 2026
 * Horario:
   - de 11:00 a 14:00h
-* [GitHub Pages (apuntes del curso)](https://uhu-fpdu-gdi-2026.github.io)
 * Upgrade organization link: https://education.github.com/globalcampus/teacher
 * Link para solicitar descuentos para educación: https://github.com/settings/education/benefits)
 
