@@ -6,7 +6,7 @@
 * Horario:
   - de 11:00 a 14:00h
 * [Apuntes desplegados en GitHub](https://uhu-fpdu-gdi-2026.github.io/): https://uhu-fpdu-gdi-2026.github.io/
-* Upgrade organization link: https://education.github.com/globalcampus/teacher
+* **Upgrade your academic organizations** link: https://education.github.com/globalcampus/teacher
 * Link para solicitar descuentos para educación: https://github.com/settings/education/benefits)
 * Classroom 50 wiki: https://github.com/foundation50/classroom50/wiki
 
